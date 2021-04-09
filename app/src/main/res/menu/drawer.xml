@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:title="Trang Chủ"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/rule"
+        android:enabled="true"
+        android:title="Quy tắc"
+        android:icon="@drawable/rules"
+        />
+    <item
+        android:id="@+id/tip"
+        android:enabled="true"
+        android:title="Lời khuyên"
+        android:icon="@drawable/tips"
+        />
+    <item
+        android:id="@+id/system"
+        android:enabled="true"
+        android:title="Hệ thống cá cược"
+        android:icon="@drawable/system"
+        />
+    <item
+        android:id="@+id/variation"
+        android:enabled="true"
+        android:title="Biến thể Baccarat"
+        android:icon="@drawable/variation"
+        />
+</menu>

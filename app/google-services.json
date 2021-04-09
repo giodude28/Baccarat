@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646598697163",
+    "project_id": "baccarat---nh-cao-bi-l",
+    "storage_bucket": "baccarat---nh-cao-bi-l.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646598697163:android:180926d612fead3cb23b4e",
+        "android_client_info": {
+          "package_name": "io.giodude.baccaratnhcaobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646598697163-d0p2bsnjo7o84ea01co0gsfrkomgkq91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcPMrwHanWpJWvyP7RMiAEZUNWMpTK6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646598697163-d0p2bsnjo7o84ea01co0gsfrkomgkq91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
